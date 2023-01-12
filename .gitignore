@@ -147,6 +147,7 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+*-checkpoint.ipynb
 
 # pyenv
 .python-version
@@ -498,3 +499,5 @@ API
 Training
 Blog
 About
+
+*.csv
